@@ -2,7 +2,7 @@
 - 👀 I’m interested in exapnding my skills as a data scientist.
 - 🌱 I’m currently learning Tensorflow and machine learning algorithms.
 - 💞️ I’m looking to collaborate on projects which have an impact on bettering existence for all.
-- 📫 How to reach me by emaik at KTStrandPhD@gmail.com
+- 📫 I can be reached via email at KTStrandPhD@gmail.com
 
 <!---
 KTStrandPhD/KTStrandPhD is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
