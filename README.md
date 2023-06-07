@@ -3,6 +3,7 @@
 -  I’m currently learning and studying supervised and unsupervised machine learning algorithms.
 -  I’m looking to collaborate on projects which have an impact on bettering existence for all.
 -  I can be reached via email at KTStrandPhD@gmail.com
+-  This is a work in progress, so check back in later for more!
 
 <!---
 KTStrandPhD/KTStrandPhD is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
